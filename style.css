@@ -1,12 +1,12 @@
 body {
-  background-color: #E3D8A8;
+  background-color: #ffebed;
   color: #000000;
   font-size: 16px;
   overflow: hidden;
 }
 
 nav {
-  background-color: #E3D8A8;
+  background-color: #ffebed;
   display: flex;
   justify-content: flex-end;
   padding: 20px;
@@ -172,7 +172,7 @@ li {
   }
 
   nav {
-    background-color: #E3D8A8;
+    background-color: #ffebed;
     display: flex;
     justify-content: flex-end;
     padding: 10px;
