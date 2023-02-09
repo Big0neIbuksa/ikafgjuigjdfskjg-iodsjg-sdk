@@ -47,7 +47,21 @@ li {
 }
 
 
-
+.text-container {
+  text-align: center;
+  color: #454547;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 29%;
+  position: relative;
+  z-index: 1;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  height: auto;
+}
 
 #Degen-Cet {
   position: absolute;
